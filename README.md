@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oliver-code
+- 👋 Hi, I’m Mari
 - 👀 I’m interested in make video game
 - 🌱 I’m currently learning unity and python
 - 💞️ I’m looking to collaborate on my python game
